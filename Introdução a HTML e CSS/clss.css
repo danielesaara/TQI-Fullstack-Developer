@@ -1,3 +1,18 @@
-.lista {
-    color:aqua
+#titulo, .posts, .post_title {
+    color:rgb(14, 112, 112)
 }
+
+.post_title {
+    font-size: 15px;
+    /* font-style: italic; */
+    font-style: arial;
+}
+
+
+.lista {
+    color:rgb(14, 112, 112)
+}
+
+/* .posts {
+    color: aquamarine;
+} */
