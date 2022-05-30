@@ -1,3 +1,13 @@
+body {
+    background-color: bisque;
+}
+.bilboImg {
+    background-color: beige;
+    padding: 50px;
+    border: 7px solid rgb(112, 189, 189);
+    border-radius: 7%;
+    margin: 15px;
+}
 #titulo, .posts, .post_title {
     color:rgb(14, 112, 112)
 }
@@ -7,7 +17,13 @@
     /* font-style: italic; */
     font-style: arial;
 }
-
+.post {
+    background-color: beige;
+    padding: 50px;
+    border: 7px solid rgb(112, 189, 189);
+    border-radius: 7%;
+    margin: 15px;
+}
 
 .lista {
     color:rgb(14, 112, 112)
