@@ -5,6 +5,7 @@ body {
     /* top: 50%; */
     left: 20%;
     /* margin: -25px 0 0 -25px; */
+    max-width: 300px;
 }
 .bilboImg {
     background-color: beige;
@@ -38,6 +39,7 @@ body {
     margin-bottom: 15px;
     font-family:sans-serif;
     /* text-transform: uppercase; */
+    text-align: justify;
 }
 .post {
     background-color: beige;
