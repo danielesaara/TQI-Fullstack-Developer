@@ -1,6 +1,6 @@
 .body {
     font-family: sans-serif;
-    
+    background-color: rgba(250, 239, 224, 0.822);    
 }
 
 .container {
@@ -17,8 +17,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    filter:grayscale(1);
-    color: white;
+    filter:grayscale(0.5);
+    color: rgba(250, 239, 224, 0.822);
     background-image: url(./paisagem.jpg);
     background-position: center;
     background-repeat: no-repeat;
